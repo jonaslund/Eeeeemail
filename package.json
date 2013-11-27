@@ -1,7 +1,7 @@
 {
   "name": "Eeeeemail.com",
   "version": "0.0.1",
-  "description": "Made for the 7on7 event at Barbican in London, keep in mind, it was written under pretty high stress levels :)",
+  "description": "Made for Rhizome's 7on7 event at Barbican in London, keep in mind, it was written under pretty high stress levels :)",
   "main": "app.js",
   "dependencies": {
     "ejs": "~0.8.4",
