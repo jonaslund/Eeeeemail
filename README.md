@@ -11,7 +11,7 @@ We remove all email addresses before forwarding the email. We’ll show you whic
 
 You’ll be sent to to Google to give us access to your Sent Mail folder.
 
-[eeeeemail.com](eeeeemail.com)
+[eeeeemail.com](http://eeeeemail.com)
 
 ### How to run
 * update app.js CLIENT_ID, CLIENT_SECRET, REDIRECT_URL with your own google credentials
