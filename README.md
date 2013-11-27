@@ -14,7 +14,7 @@ You’ll be sent to to Google to give us access to your Sent Mail folder.
 [eeeeemail.com](http://eeeeemail.com)
 
 ### How to run
-* update app.js CLIENT_ID, CLIENT_SECRET, REDIRECT_URL with your own google credentials
+* update app.js CLIENT_ID, CLIENT_SECRET, REDIRECT_URL with your own google api credentials
 * update lib/mailer.js with SEND_EMAIL, SEND_PASSWORD
 * create/connect to mysql database
 * npm install
