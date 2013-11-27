@@ -1,0 +1,30 @@
+{
+  "name": "Eeeeemail.com",
+  "version": "0.0.1",
+  "description": "Made for the 7on7 event at Barbican in London, keep in mind, it was written under pretty high stress levels :)",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "~0.8.4",
+    "express": "~3.1.0",
+    "generic-pool": "~2.0.2",
+    "googleapis": "~0.4.5",
+    "imap": "~0.8.3",
+    "mailparser": "~0.3.6",
+    "mysql": "~2.0.0-alpha4",
+    "nodemailer": "~0.3.29",
+    "oauth": "~0.9.10",
+    "xoauth2": "~0.1.8"
+  },  
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jonaslund/Eeeeemail.git"
+  },
+  "keywords": [
+    "eeeeemail.com"
+  ],
+  "author": "Jonas Lund, Michelle You",
+  "license": "CL"
+}

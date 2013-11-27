@@ -1,0 +1,15 @@
+<% include _header %>
+<p class="mb3">Eeeeemail will randomly select one email from your Gmail Sent Mail folder and send that to another eeeemailer. In exchange, you will receive a randomly selected email from that person.
+<br/><br/>
+We remove all email addresses before forwarding the email.
+We’ll show you which email we’ve sent, but you can’t undo it.
+<br/><br/>
+You’ll be sent to to Google to give us access to your Sent Mail folder.
+</p>
+
+<p>Fill In Your Email To Begin Eeeeemailing</p>
+<form action="/begin" method="GET">
+  <input type="email" name="email" id="email" placeholder="eeeeemail"/>
+  <input type="submit" id="dologin" value="Begin" />
+</form>
+<% include _footer %>
